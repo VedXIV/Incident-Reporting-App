@@ -1,4 +1,4 @@
-# Smart Emergency Response & Incident Reporting App 🚨
+# Smart Emergency Response & Incident Reporting App 
 
 A Flutter-based mobile application that allows users to quickly report emergencies, track incident status, and helps administrators manage and prioritize emergency cases efficiently.
 
